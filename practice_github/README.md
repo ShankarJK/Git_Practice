@@ -41,3 +41,5 @@ git branch
 git checkout branchname
 
 git pull -r origin branchname
+
+git rebase 
